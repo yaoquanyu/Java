@@ -1,0 +1,51 @@
+two
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/4300.txt", 409, 351
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/2701.txt", 302, 874
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/98.txt", 233, 9
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1661.txt", 150, 1411
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1342.txt", 135, 1098
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1322.txt", 77, 2679
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc3031.txt", 43, 1038
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/11.txt", 40, 2092
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6797.txt", 8, 1769
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6841.txt", 6, 749
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6819.txt", 6, 2182
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6805.txt", 4, 2932
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 1, 2
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc475.txt", 1, 68
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6838.txt", 1, 8885
+
+chickadee
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1322.txt", 1, 9175
+
+aa
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc3031.txt", 3, 9128
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/4300.txt", 2, 90283
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/capital_extension.TXT", 1, 1
+
+t
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/4300.txt", 38299, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/2701.txt", 36305, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/98.txt", 21552, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1322.txt", 20910, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1342.txt", 16497, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1661.txt", 15609, 4
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/11.txt", 5119, 12
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6819.txt", 3430, 3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc3031.txt", 3296, 15
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6797.txt", 1828, 3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6838.txt", 1654, 3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6805.txt", 1423, 3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc6841.txt", 990, 3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/rfcs/rfc475.txt", 499, 22
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 6, 2
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 4, 3
+
+elephant antelope
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/2701.txt", 33, 17469
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/4300.txt", 11, 32792
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/capitals.txt", 4, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 3, 1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/1322.txt", 1, 34878
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/gutenberg/98.txt", 1, 65205
+

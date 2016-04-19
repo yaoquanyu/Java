@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/yyu25/!svn/ver/256/cs212/project3/src
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/yyu25/!svn/ver/256/cs212/project3/src/WorkQueue.java
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/yyu25/!svn/ver/256/cs212/project3/src/log4j2.xml
+END
+InvertedIndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/yyu25/!svn/ver/256/cs212/project3/src/InvertedIndexBuilder.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/yyu25/!svn/ver/256/cs212/project3/src/InvertedIndex.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/yyu25/!svn/ver/238/cs212/project3/src/ArgumentParser.java
+END
+WordParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/yyu25/!svn/ver/238/cs212/project3/src/WordParser.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/yyu25/!svn/ver/256/cs212/project3/src/Driver.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/yyu25/!svn/ver/249/cs212/project3/src/MultiReaderLock.java
+END
+QueryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/yyu25/!svn/ver/256/cs212/project3/src/QueryHelper.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/yyu25/!svn/ver/238/cs212/project3/src/QueryResult.java
+END

@@ -1,0 +1,138 @@
+1
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 1
+
+123
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 4
+
+123a
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 6
+
+2
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 2
+
+3
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 3
+
+a
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 4
+
+a123
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/digits.txt", 5
+
+aardvark
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/capital_extension.TXT", 1
+
+alpaca
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/a/b/c/d/subdir.txt", 1
+
+an
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 2, 15, 19
+
+ante
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 13, 22
+
+antelope
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 1, 12, 24
+
+e
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 7, 11
+
+eight
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 8
+
+eighteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 18
+
+elephant
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/capitals.txt", 1, 2, 3, 4
+
+eleven
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 11
+
+fifteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 15
+
+five
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 5
+
+four
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 4
+
+fourteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 14
+
+l
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 8
+
+lo
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 17
+
+lope
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 14, 23
+
+n
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 5
+
+nine
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 9
+
+nineteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 19
+
+o
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 9
+
+one
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 1
+
+ope
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 21
+
+p
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 10
+
+pe
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 18
+
+seven
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 7
+
+seventeen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 17
+
+six
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 6
+
+sixteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 16
+
+t
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 6
+
+te
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 16
+
+tel
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 20
+
+telope
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/symbols.txt", 3
+
+ten
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 10
+
+thirteen
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 13
+
+three
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 3
+
+twelve
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 12
+
+twenty
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 20
+
+two
+"/Users/yaoquanyu/Desktop/workplace/project3/input/index/simple/position.txt", 2
+
